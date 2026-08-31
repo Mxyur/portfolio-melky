@@ -1,0 +1,552 @@
+{
+  "featured": [
+    {
+      "id": "MY-001",
+      "title": "Ventify Logo",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ventify-logo.webp"
+    },
+    {
+      "id": "MY-041",
+      "title": "IBFI Kaleido",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/motion-ibfi-kaleido.mp4",
+      "poster": "motion-posters/motion-ibfi-kaleido.webp"
+    },
+    {
+      "id": "MY-004",
+      "title": "Tiboost Proposed",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "tiboost-proposed.webp"
+    },
+    {
+      "id": "MY-047",
+      "title": "TIBFest Bumper",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/tibfest-bumper.mp4",
+      "poster": "motion-posters/tibfest-bumper.webp"
+    },
+    {
+      "id": "MY-003",
+      "title": "TIB One Cloth",
+      "type": "design",
+      "media": "image",
+      "orientation": "landscape",
+      "src": "tib-one-cloth.webp"
+    },
+    {
+      "id": "MY-006",
+      "title": "RAKERDIR TIB",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "rakerdir-tib.webp"
+    },
+    {
+      "id": "MY-039",
+      "title": "Main Bumper",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/main-bumper-1.mp4",
+      "poster": "motion-posters/main-bumper-1.webp"
+    },
+    {
+      "id": "MY-008",
+      "title": "IBFI Movie 2",
+      "type": "design",
+      "media": "image",
+      "orientation": "landscape",
+      "src": "ibfi-movie-2.webp"
+    },
+    {
+      "id": "MY-005",
+      "title": "KTOTC2",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ktotc2.webp"
+    },
+    {
+      "id": "MY-044",
+      "title": "Pra Raker KLN 02",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/pra-raker-kln-bumper2.mp4",
+      "poster": "motion-posters/pra-raker-kln-bumper2.webp"
+    },
+    {
+      "id": "MY-007",
+      "title": "KsatriaKartala",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ksatriakartala.webp"
+    },
+    {
+      "id": "MY-012",
+      "title": "Poster Muswil",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "poster-muswil2.webp"
+    },
+    {
+      "id": "MY-036",
+      "title": "TIBFest Vertical Loop",
+      "type": "motion",
+      "media": "video",
+      "orientation": "portrait",
+      "src": "TIBFest Vertical  Loo.mp4"
+    },
+    {
+      "id": "MY-009",
+      "title": "Ventify4",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ventify4.webp"
+    },
+    {
+      "id": "MY-037",
+      "title": "KTOTC Vid 01",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/ktotc-vid1.mp4",
+      "poster": "motion-posters/ktotc-vid1.webp"
+    },
+    {
+      "id": "MY-011",
+      "title": "RAKERDIR TIB 3",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "rakerdir-tib-3.webp"
+    },
+    {
+      "id": "MY-002",
+      "title": "TIB Logo Proposed",
+      "type": "design",
+      "media": "image",
+      "orientation": "landscape",
+      "src": "tib-logo-proposed.webp"
+    },
+    {
+      "id": "MY-048",
+      "title": "Welcome to TIB Fest",
+      "type": "motion",
+      "media": "video",
+      "orientation": "portrait",
+      "src": "motion/welcom-to-tib-fest.mp4",
+      "poster": "motion-posters/welcom-to-tib-fest.webp"
+    }
+  ],
+  "archive": [
+    {
+      "id": "MY-001",
+      "title": "Ventify Logo",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ventify-logo.webp"
+    },
+    {
+      "id": "MY-002",
+      "title": "TIB Logo Proposed",
+      "type": "design",
+      "media": "image",
+      "orientation": "landscape",
+      "src": "tib-logo-proposed.webp"
+    },
+    {
+      "id": "MY-003",
+      "title": "TIB One Cloth",
+      "type": "design",
+      "media": "image",
+      "orientation": "landscape",
+      "src": "tib-one-cloth.webp"
+    },
+    {
+      "id": "MY-004",
+      "title": "Tiboost Proposed",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "tiboost-proposed.webp"
+    },
+    {
+      "id": "MY-005",
+      "title": "KTOTC2",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ktotc2.webp"
+    },
+    {
+      "id": "MY-006",
+      "title": "RAKERDIR TIB",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "rakerdir-tib.webp"
+    },
+    {
+      "id": "MY-007",
+      "title": "KsatriaKartala",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ksatriakartala.webp"
+    },
+    {
+      "id": "MY-008",
+      "title": "IBFI Movie 2",
+      "type": "design",
+      "media": "image",
+      "orientation": "landscape",
+      "src": "ibfi-movie-2.webp"
+    },
+    {
+      "id": "MY-009",
+      "title": "Ventify4",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ventify4.webp"
+    },
+    {
+      "id": "MY-010",
+      "title": "KTOTC3",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ktotc3.webp"
+    },
+    {
+      "id": "MY-011",
+      "title": "RAKERDIR TIB 3",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "rakerdir-tib-3.webp"
+    },
+    {
+      "id": "MY-012",
+      "title": "Poster Muswil",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "poster-muswil2.webp"
+    },
+    {
+      "id": "MY-013",
+      "title": "CBL2",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "cbl2.webp"
+    },
+    {
+      "id": "MY-014",
+      "title": "TIB One Cloth 02",
+      "type": "design",
+      "media": "image",
+      "orientation": "landscape",
+      "src": "tib-one-cloth2.webp"
+    },
+    {
+      "id": "MY-015",
+      "title": "KTOTC1",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ktotc1.webp"
+    },
+    {
+      "id": "MY-016",
+      "title": "IKA Unsri 02",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "ika-unsri-2.webp"
+    },
+    {
+      "id": "MY-017",
+      "title": "ODP239 Logo",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "odp239-logo.webp"
+    },
+    {
+      "id": "MY-018",
+      "title": "RMUN",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "rmun.webp"
+    },
+    {
+      "id": "MY-019",
+      "title": "KTOTC \u00d7 Farewell",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "pra-event-ktotc-x-farewellartboard-1-copy-3.webp"
+    },
+    {
+      "id": "MY-020",
+      "title": "Gapura",
+      "type": "design",
+      "media": "image",
+      "orientation": "landscape",
+      "src": "gapura-atas.webp"
+    },
+    {
+      "id": "MY-021",
+      "title": "Ventify5",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ventify5.webp"
+    },
+    {
+      "id": "MY-022",
+      "title": "CBL1",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "cbl1.webp"
+    },
+    {
+      "id": "MY-023",
+      "title": "IKA Unsri",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "ika-unsri.webp"
+    },
+    {
+      "id": "MY-024",
+      "title": "TIB One Cloth 03",
+      "type": "design",
+      "media": "image",
+      "orientation": "landscape",
+      "src": "tib-one-cloth3.webp"
+    },
+    {
+      "id": "MY-025",
+      "title": "Ventify6",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ventify6.webp"
+    },
+    {
+      "id": "MY-026",
+      "title": "KsatriaKartala 02",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ksatriakartala2.webp"
+    },
+    {
+      "id": "MY-027",
+      "title": "ODP239",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "odp239.webp"
+    },
+    {
+      "id": "MY-028",
+      "title": "RAKERDIR TIB 02",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "rakerdir-tib-2.webp"
+    },
+    {
+      "id": "MY-029",
+      "title": "Muswil Copy",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "poster-muswil2-copy.webp"
+    },
+    {
+      "id": "MY-030",
+      "title": "CBL3",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "cbl3.webp"
+    },
+    {
+      "id": "MY-031",
+      "title": "CBL4",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "cbl4.webp"
+    },
+    {
+      "id": "MY-032",
+      "title": "KsatriaKartala 03",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ksatriakartala3.webp"
+    },
+    {
+      "id": "MY-033",
+      "title": "Ventify2",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ventify2.webp"
+    },
+    {
+      "id": "MY-034",
+      "title": "Ventify3",
+      "type": "design",
+      "media": "image",
+      "orientation": "square",
+      "src": "ventify3.webp"
+    },
+    {
+      "id": "MY-035",
+      "title": "IBFI Movie",
+      "type": "design",
+      "media": "image",
+      "orientation": "portrait",
+      "src": "ibfi-movie.webp"
+    },
+    {
+      "id": "MY-036",
+      "title": "TIBFest Vertical Loop",
+      "type": "motion",
+      "media": "video",
+      "orientation": "portrait",
+      "src": "TIBFest Vertical  Loo.mp4"
+    },
+    {
+      "id": "MY-037",
+      "title": "KTOTC Vid 01",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/ktotc-vid1.mp4",
+      "poster": "motion-posters/ktotc-vid1.webp"
+    },
+    {
+      "id": "MY-038",
+      "title": "KTOTC Vid 02",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/ktotc-vid2.mp4",
+      "poster": "motion-posters/ktotc-vid2.webp"
+    },
+    {
+      "id": "MY-039",
+      "title": "Main Bumper",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/main-bumper-1.mp4",
+      "poster": "motion-posters/main-bumper-1.webp"
+    },
+    {
+      "id": "MY-040",
+      "title": "Moderator Bumper",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/moderator-bumper-revis.mp4",
+      "poster": "motion-posters/moderator-bumper-revis.webp"
+    },
+    {
+      "id": "MY-041",
+      "title": "IBFI Kaleido",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/motion-ibfi-kaleido.mp4",
+      "poster": "motion-posters/motion-ibfi-kaleido.webp"
+    },
+    {
+      "id": "MY-042",
+      "title": "PSDP Still",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/psdp-still.mp4",
+      "poster": "motion-posters/psdp-still.webp"
+    },
+    {
+      "id": "MY-043",
+      "title": "Pra Raker KLN",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/pra-raker-kln-bumper.mp4",
+      "poster": "motion-posters/pra-raker-kln-bumper.webp"
+    },
+    {
+      "id": "MY-044",
+      "title": "Pra Raker KLN 02",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/pra-raker-kln-bumper2.mp4",
+      "poster": "motion-posters/pra-raker-kln-bumper2.webp"
+    },
+    {
+      "id": "MY-045",
+      "title": "RBT Bumper",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/rbt-bumper.mp4",
+      "poster": "motion-posters/rbt-bumper.webp"
+    },
+    {
+      "id": "MY-046",
+      "title": "Bu Retno Render",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/render-bu-retno-final-bismillah.mp4",
+      "poster": "motion-posters/render-bu-retno-final-bismillah.webp"
+    },
+    {
+      "id": "MY-047",
+      "title": "TIBFest Bumper",
+      "type": "motion",
+      "media": "video",
+      "orientation": "landscape",
+      "src": "motion/tibfest-bumper.mp4",
+      "poster": "motion-posters/tibfest-bumper.webp"
+    },
+    {
+      "id": "MY-048",
+      "title": "Welcome to TIB Fest",
+      "type": "motion",
+      "media": "video",
+      "orientation": "portrait",
+      "src": "motion/welcom-to-tib-fest.mp4",
+      "poster": "motion-posters/welcom-to-tib-fest.webp"
+    }
+  ]
+}

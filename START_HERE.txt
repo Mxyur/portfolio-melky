@@ -1,0 +1,7 @@
+MELKY VISUAL ARCHIVE — V9
+
+1. Extract this ZIP into a NEW folder.
+2. Double-click START_V9.bat.
+3. The browser opens http://127.0.0.1:5519/
+4. You should see DESIGN. / SYSTEMS. / STRATEGY.
+5. V9 fixes the media path bug from V8 and compacts the Experience section.

@@ -1,0 +1,6 @@
+MELKY PORTFOLIO — FINAL LOCKED RELEASE
+Version: V17
+Status: FROZEN / DEPLOYMENT READY
+Do not edit source files in this release folder.
+Instagram motion: ig-melky.mp4
+People Behind Melky: people-ceo.webp, people-myur.webp, people-strategic.webp
