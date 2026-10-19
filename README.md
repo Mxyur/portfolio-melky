@@ -1,4 +1,25 @@
-# MELKY / VISUAL ARCHIVE — V11
+# MELKY / VISUAL ARCHIVE — V18
+
+## Run locally
+
+```sh
+pnpm install
+pnpm dev
+```
+
+Build the static site with `pnpm build`. The build prepares the existing local portfolio media for Vite before bundling.
+
+## V18 art direction and ThreeUI
+
+The portfolio keeps its original content, career history, project archive, filtering, lightbox, video feed, and three persona section. The visual system now uses a competitive broadcast-poster language inspired by the supplied Valorant reference: signal red, warm white, charcoal, and yellow; clipped panels; match-card framing; and angular separators.
+
+ThreeUI Community components add motion in two restrained areas: `DefenseLines` behind the hero portrait and `InterfaceLines` behind Selected Work. Both effects are deferred until their sections enter view. The original portfolio media and artwork remain the primary content.
+
+The static content is mounted through Vite and React so the ThreeUI package can be used without replacing the portfolio's existing data-driven gallery.
+
+---
+
+## Previous visual iterations
 
 The People Behind Melky section now uses the three persona portraits from the previously generated portfolio concept visual:
 1. Melky Y — CEO
